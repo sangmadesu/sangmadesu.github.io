@@ -9,7 +9,7 @@ Hello Sleepyhead,
 
 This is my first blog post in this year... Yeahh congratulation for me...
 
-For the first time i want to introduce my self. My name is Handry Wahyudi from Indonesia, I like to ena while creating application using python build inside docker container system at the linux operating system. Voillaaaa... it's like i have the power of eating, programming, sysadmin and devops in one heart. :D
+For the first time i want to introduce my self. My name is Handry Wahyudi from Indonesia, I like to eat while creating application using python build inside docker container system at the linux operating system. Voillaaaa... it's like i have the power of eating, programming, sysadmin and devops in one heart. :D
 
 The purpose of this blog is to share about my knowledge and want to feel how difficult to keep consistency in technology. So, do not dissapointed when your read this blog is only contains to the basic about of the technology wkwkwk.
 
